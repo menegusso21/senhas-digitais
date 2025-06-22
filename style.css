@@ -80,12 +80,13 @@ body{
     flex-direction: column;
     justify-content: center;
 }
+
 .parametro-senha{
     width: 50%;
     margin: 0 auto;
 }
 
-.parametro-senha__botao{
+.parametro-senha__botao {
     background-color: var(--fundo-texto);
     color: var(--branco);
     border: 2px solid var(--borda);
